@@ -1,0 +1,10 @@
+streamlit
+groq
+textstat
+vaderSentiment
+scikit-learn
+pandas
+numpy
+joblib
+python-dotenv
+matplotlib
